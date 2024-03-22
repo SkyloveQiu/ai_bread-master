@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>add.png</file>
+    <file>info.png</file>
+    <file>play.png</file>
+    <file>power.png</file>
+    <file>bread.png</file>
+  </qresource>
+</RCC>

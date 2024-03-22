@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+
+<robot name="Bread_Cutter" xmlns:xacro="http://www.ros.org/wiki/xacro">
+   <!-- world -->
+  <link name="world" />
+  <link name='base_link'>
+    <pose>0 0 0 0 0 0</pose>
+
+    <inertial>
+      <mass value="100.0"/>
+      <origin xyz="0.0 0 0" rpy=" 0 0 0"/>
+      <inertia
+          ixx="0.1" ixy="0" ixz="0"
+          iyy="0.1" iyz="0"
+          izz="0.1"
+      />
+    </inertial>
+
+    <collision name='collision'>
+      <origin xyz="0 0 0.0" rpy=" 0 0 0"/> 
+      <geometry>
+        <box size="0.5 0.75 1" />
+      </geometry>
+    </collision>
+
+    <visual name='Bread_Cutter'>
+      <origin xyz="0 0 0.0" rpy=" 0 0 0"/>
+      <geometry>
+       <box size="0.5 0.75 1" />
+      </geometry>
+    </visual>
+
+  </link>
+  
+  <link name='camerabox'>
+    <pose>0 0 0 0 0 0</pose>
+
+    <inertial>
+      <mass value="100.0"/>
+      <origin xyz="0.0 0 0" rpy=" 0 0 0"/>
+      <inertia
+          ixx="0.1" ixy="0" ixz="0"
+          iyy="0.1" iyz="0"
+          izz="0.1"
+      />
+    </inertial>
+
+    <collision name='collision_camera'>
+      <origin xyz="0 0 0.0" rpy=" 0 0 0"/> 
+      <geometry>
+        <box size="0.5 0.75 0.2" />
+      </geometry>
+    </collision>
+
+    <visual name='camera_box'>
+      <origin xyz="0 0 0.0" rpy=" 0 0 0"/>
+      <geometry>
+       <box size="0.2 0.75 0.2" />
+      </geometry>
+    </visual>
+
+
+    
+
+  </link>
+  <joint name="bread_cutter_to_world" type="fixed">
+    <parent link="world" />
+    <child link="base_link" />
+    <origin xyz="0 0.37 0.5" rpy="0.0 0.0 0.0"/>
+  </joint>
+  
+    <joint name="camera_to_bread_cutter" type="fixed">
+    <parent link="base_link" />
+    <child link="camerabox" />
+    <origin xyz="0.35 0 0" rpy="0.0 0.0 0.0"/>
+  </joint>
+</robot>

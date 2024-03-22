@@ -1,0 +1,8 @@
+
+share/python-wheels/
+__pycache__/
+lib/
+lib64/
+wheels/
+**/__pycache__/**
+/pid/__pycache__/**

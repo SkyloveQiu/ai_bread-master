@@ -1,0 +1,11 @@
+<launch>
+	
+	 <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find bread_gazebo)/urdf/Bread_Cutter.urdf.xacro'" />
+	<include file="$(find gazebo_ros)/launch/empty_world.launch">
+		
+   		<arg name="paused" value="true"/>
+	</include> 
+	
+		<node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" args="-urdf -param robot_description -model Bread_Cutter" />
+	
+</launch>

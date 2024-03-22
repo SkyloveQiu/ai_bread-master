@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+  
+  <!-- LAUNCHES MAIN COMPONENTS -->
+  <node name="controller" pkg="bread_gazebo" type="Controller.py"
+    output="screen" required = "true">
+    <param name="/use_sim_time" value="false"/>
+  </node>
+  <node name="logger_node" pkg="bread_gazebo" type="logger.py"
+    output="screen"/>
+  
+  <node name="Loaf_Queue" pkg="bread_gazebo" type="LoafQueue.py"
+    output="screen">
+    <param name="/use_sim_time" value="false"/>
+  </node>
+</launch>
+

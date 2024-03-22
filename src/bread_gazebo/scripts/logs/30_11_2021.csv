@@ -1,0 +1,60 @@
+import pathlib
+import pygubu
+import tkinter as tk
+import tkinter.ttk as ttk
+
+PROJECT_PATH = pathlib.Path(__file__).parent
+PROJECT_UI = PROJECT_PATH / "newproject"
+
+
+class NewprojectApp:
+    def __init__(self, master=None):
+        # build ui
+        self.toplevel1 = tk.Tk() if master is None else tk.Toplevel(master)
+        self.label2 = ttk.Label(self.toplevel1)
+        self.label2.configure(background='#d0f8fb', text='Please select the correct type of bread')
+        self.label2.pack(pady='20', side='top')
+        self.frame3 = tk.Frame(self.toplevel1)
+        self.label4 = ttk.Label(self.frame3)
+        self.label4.configure(anchor='w', state='normal')
+        self.label4.pack(anchor='w', side='left')
+        self.label4.pack_propagate(0)
+        self.label5 = ttk.Label(self.frame3)
+        self.label5.configure(anchor='w', state='normal')
+        self.label5.pack(anchor='w', side='left')
+        self.label5.pack_propagate(0)
+        self.label6 = ttk.Label(self.frame3)
+        self.label6.configure(anchor='w', state='normal')
+        self.label6.pack(anchor='w', side='left')
+        self.label6.pack_propagate(0)
+        self.frame3.configure(background='#ffffff', borderwidth='0', height='160', takefocus=False)
+        self.frame3.configure(width='600')
+        self.frame3.pack(anchor='n', expand='false', fill='y', pady='10', side='top')
+        self.frame3.pack_propagate(0)
+        self.frame2 = tk.Frame(self.toplevel1)
+        self.frame2.configure(background='#ffffff', height='160', takefocus=False, width='600')
+        self.frame2.pack(anchor='n', expand='false', fill='both', ipady='20', pady='10', side='top')
+        self.frame4 = tk.Frame(self.toplevel1)
+        self.frame4.configure(background='#ffffff', height='160', takefocus=False, width='600')
+        self.frame4.pack(anchor='n', expand='false', fill='both', ipady='20', pady='10', side='top')
+        self.frame6 = tk.Frame(self.toplevel1)
+        self.frame6.configure(background='#ffffff', height='160', takefocus=False, width='600')
+        self.frame6.pack(anchor='n', expand='false', fill='both', ipady='20', pady='10', side='top')
+        self.toplevel1.configure(background='#d0f8fb', height='1000', width='600')
+        self.toplevel1.geometry('600x1000')
+        self.toplevel1.maxsize(600, 1000)
+        self.toplevel1.minsize(600, 1000)
+        self.toplevel1.resizable(False, False)
+
+        # Main widget
+        self.mainwindow = self.toplevel1
+    
+    def run(self):
+        self.mainwindow.mainloop()
+
+
+if __name__ == '__main__':
+    app = NewprojectApp()
+    app.run()
+
+

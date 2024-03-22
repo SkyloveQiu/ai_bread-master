@@ -1,0 +1,9 @@
+build/**
+devel/**
+**/.idea
+.vscode/**
+
+
+src/bread_gazebo/scripts/data/1.jpg
+src/bread_gazebo/scripts/data/IMG_0995.jpg
+src/bread_gazebo/scripts/data/IMG_0994.jpg

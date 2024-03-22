@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="camera_sensor_top" pkg="bread_gazebo" type="camera_sensor_top.py"
+    output="screen">
+    </node>
+    <node name="Identifier" pkg="bread_gazebo" type="Identifier.py"
+    output="screen">
+    </node>
+    <node name="enough_bags" pkg="bread_gazebo" type="CameraSensors.py"
+    output="screen">
+    </node>
+</launch>

@@ -1,0 +1,10 @@
+# Goal
+int32 required_status
+
+---
+# Result
+int32 finish_status
+
+---
+# Feedback
+int32 current_status

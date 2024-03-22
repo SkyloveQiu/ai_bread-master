@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+  
+  
+  <node name="TF_Node" pkg="bread_gazebo" type="Detector.py"
+  	output="screen">
+    </node>
+</launch>

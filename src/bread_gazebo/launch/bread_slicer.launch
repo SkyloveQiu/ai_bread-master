@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch> 
+    	<include ns="bread_slicer" file="$(find bread_gazebo)/launch/main_components.launch" /> 
+    	<include ns="bread_slicer" file="$(find bread_gazebo)/launch/interfaces.launch" /> 
+    	<include ns="bread_slicer" file="$(find bread_gazebo)/launch/user_related.launch" /> 
+		<include ns="bread_slicer" file="$(find bread_gazebo)/launch/camera_sensors.launch" /> 
+		<include ns="bread_slicer" file="$(find bread_gazebo)/launch/bagging_components.launch" /> 
+		<include ns="bread_slicer" file="$(find bread_gazebo)/launch/conveyor_components.launch" /> 
+</launch>
+

@@ -1,0 +1,1377 @@
+Timestamp,Source,Message Type,Data
+2022-01-11 16:36:34.536026,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:36:36.763777,user,INFO,PUT BREAD IN
+2022-01-11 16:36:36.765877,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:36:36.767153,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:36:36.769238,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:36:37.861830,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:36:37.871614,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:36:38.900563,Controller,INFO,USER UP
+2022-01-11 16:36:38.902191,Controller,INFO,BAGGING UP
+2022-01-11 16:36:38.903784,Controller,INFO,SLICER UP
+2022-01-11 16:36:38.904775,USER INTERFACE,INFO,STARTING
+2022-01-11 16:36:38.905656,Controller,INFO,LOAF Q UP
+2022-01-11 16:36:39.621506,user,INFO,PUT BREAD IN
+2022-01-11 16:36:39.623376,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:36:39.625108,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:36:39.627169,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:36:41.381464,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:36:41.488414,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:36:42.478149,user,INFO,PUT BREAD IN
+2022-01-11 16:36:42.480012,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:36:42.481131,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:36:42.484987,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:36:46.028581,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:36:46.134098,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:36:46.135791,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:36:46.139879,Bagging Interface,INFO,DIDNT BACK  Black
+2022-01-11 16:36:46.141265,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:36:46.142448,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:36:46.578984,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:36:46.583822,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:36:54.970057,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:36:54.980776,Ferris Wheel Interface,INFO,New pid err 7.40221345910493 error camera is 7.4336293856408275 d_angle is 0.031415926535897754
+2022-01-11 16:36:56.763282,user,INFO,PUT BREAD IN
+2022-01-11 16:36:56.764492,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:36:56.765993,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:36:56.768021,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:36:58.090952,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:36:58.097084,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:36:59.619677,user,INFO,PUT BREAD IN
+2022-01-11 16:36:59.621140,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:36:59.622914,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:36:59.625701,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:37:03.014848,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:37:03.120042,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:37:03.147052,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.177969,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892402
+2022-01-11 16:37:03.199710,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.214349,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892403
+2022-01-11 16:37:03.226100,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.251696,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892402
+2022-01-11 16:37:03.284804,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.286251,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892402
+2022-01-11 16:37:03.299710,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.325708,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892402
+2022-01-11 16:37:03.343327,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.367763,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892403
+2022-01-11 16:37:03.379169,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356506
+2022-01-11 16:37:03.404813,Ferris Wheel Interface,INFO,d_angle too large 6.031857894892403
+2022-01-11 16:37:03.430856,Ferris Wheel Interface,INFO,d_angle too small -6.000441968356505
+2022-01-11 16:37:03.456918,Ferris Wheel Interface,INFO,New pid err 13.968142105107598 error camera is 13.716814692820414 d_angle is -0.25132741228718347
+2022-01-11 16:37:05.879070,USER INTERFACE,INFO,User going down
+2022-01-11 16:39:28.971498,user,INFO,PUT BREAD IN
+2022-01-11 16:39:28.972271,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:39:29.447648,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:39:33.921492,Controller,INFO,USER UP
+2022-01-11 16:39:33.923816,Controller,INFO,BAGGING UP
+2022-01-11 16:39:33.926230,Controller,INFO,SLICER UP
+2022-01-11 16:39:33.927730,USER INTERFACE,INFO,STARTING
+2022-01-11 16:39:33.928895,Controller,INFO,LOAF Q UP
+2022-01-11 16:39:37.544228,user,INFO,PUT BREAD IN
+2022-01-11 16:39:37.547293,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:39:37.549754,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:39:37.555244,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:39:38.573831,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:39:38.620431,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:39:48.398274,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284709
+2022-01-11 16:39:48.399743,Ferris Wheel Interface,INFO,New pid err 13.371239500925537 error camera is 13.716814692820414 d_angle is 0.34557519189487707
+2022-01-11 16:39:48.436096,Ferris Wheel Interface,INFO,d_angle too large 5.969026041820607
+2022-01-11 16:39:48.446454,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284709
+2022-01-11 16:39:48.478008,Ferris Wheel Interface,INFO,d_angle too large 5.969026041820607
+2022-01-11 16:39:48.499080,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284709
+2022-01-11 16:39:48.525617,Ferris Wheel Interface,INFO,d_angle too large 5.969026041820607
+2022-01-11 16:39:48.540547,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284708
+2022-01-11 16:39:48.582384,Ferris Wheel Interface,INFO,d_angle too large 5.969026041820606
+2022-01-11 16:39:48.587809,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284708
+2022-01-11 16:39:48.616328,Ferris Wheel Interface,INFO,d_angle too large 5.969026041820607
+2022-01-11 16:39:48.642516,Ferris Wheel Interface,INFO,d_angle too small -5.937610115284709
+2022-01-11 16:39:48.684593,Ferris Wheel Interface,INFO,d_angle too large 5.937610115284709
+2022-01-11 16:39:48.705729,Ferris Wheel Interface,INFO,d_angle too small -5.906194188748811
+2022-01-11 16:39:48.733013,Ferris Wheel Interface,INFO,d_angle too large 5.937610115284709
+2022-01-11 16:39:48.744014,Ferris Wheel Interface,INFO,d_angle too small -5.9061941887488105
+2022-01-11 16:39:48.774795,Ferris Wheel Interface,INFO,d_angle too large 5.937610115284708
+2022-01-11 16:39:48.780025,Ferris Wheel Interface,INFO,d_angle too small -5.9061941887488105
+2022-01-11 16:39:48.827315,Ferris Wheel Interface,INFO,d_angle too large 5.906194188748811
+2022-01-11 16:39:48.864331,Ferris Wheel Interface,INFO,d_angle too small -5.874778262212914
+2022-01-11 16:39:48.874554,Ferris Wheel Interface,INFO,d_angle too large 5.906194188748811
+2022-01-11 16:39:48.911080,Ferris Wheel Interface,INFO,d_angle too small -5.874778262212914
+2022-01-11 16:39:48.947732,Ferris Wheel Interface,INFO,New pid err 7.810620504071602 error camera is 7.4336293856408275 d_angle is -0.37699111843077515
+2022-01-11 16:39:54.687610,user,INFO,PUT BREAD IN
+2022-01-11 16:39:54.689030,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:39:54.690703,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:39:54.693972,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:39:55.740122,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:39:55.862784,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:39:55.869060,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:39:55.885360,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:55.922865,Ferris Wheel Interface,INFO,d_angle too large 5.466371217246239
+2022-01-11 16:39:55.928160,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:55.960053,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:55.965742,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:55.997812,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.002982,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.036250,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.038316,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.074312,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.076681,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.115831,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.118263,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.158368,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.163585,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:56.235949,Ferris Wheel Interface,INFO,d_angle too large 5.434955290710342
+2022-01-11 16:39:56.267810,Ferris Wheel Interface,INFO,d_angle too small -5.403539364174444
+2022-01-11 16:39:56.272749,Ferris Wheel Interface,INFO,d_angle too large 5.434955290710342
+2022-01-11 16:39:56.304624,Ferris Wheel Interface,INFO,d_angle too small -5.403539364174444
+2022-01-11 16:39:56.309955,Ferris Wheel Interface,INFO,d_angle too large 5.434955290710342
+2022-01-11 16:39:56.346509,Ferris Wheel Interface,INFO,d_angle too small -5.403539364174444
+2022-01-11 16:39:56.372860,Ferris Wheel Interface,INFO,d_angle too large 5.4349552907103424
+2022-01-11 16:39:56.399008,Ferris Wheel Interface,INFO,d_angle too small -5.403539364174444
+2022-01-11 16:39:56.410005,Ferris Wheel Interface,INFO,d_angle too large 5.434955290710342
+2022-01-11 16:39:56.456971,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.488541,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.499084,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.525294,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.536204,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.568159,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.589167,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:56.605184,Ferris Wheel Interface,INFO,d_angle too large 5.466371217246239
+2022-01-11 16:39:56.642504,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:56.647604,Ferris Wheel Interface,INFO,d_angle too large 5.466371217246239
+2022-01-11 16:39:56.680299,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:56.684787,Ferris Wheel Interface,INFO,d_angle too large 5.466371217246239
+2022-01-11 16:39:56.707028,Ferris Wheel Interface,INFO,d_angle too small -5.434955290710342
+2022-01-11 16:39:56.727277,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.775656,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.780789,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.795609,Ferris Wheel Interface,INFO,d_angle too small -5.4349552907103424
+2022-01-11 16:39:56.806010,Ferris Wheel Interface,INFO,d_angle too large 5.46637121724624
+2022-01-11 16:39:56.849287,Ferris Wheel Interface,INFO,d_angle too small -5.466371217246239
+2022-01-11 16:39:56.891189,Ferris Wheel Interface,INFO,d_angle too large 5.497787143782139
+2022-01-11 16:39:56.893872,Ferris Wheel Interface,INFO,d_angle too small -5.46637121724624
+2022-01-11 16:39:56.930194,Ferris Wheel Interface,INFO,d_angle too large 5.497787143782138
+2022-01-11 16:39:56.934511,Ferris Wheel Interface,INFO,d_angle too small -5.46637121724624
+2022-01-11 16:39:56.970429,Ferris Wheel Interface,INFO,New pid err 14.502212856217863 error camera is 13.716814692820414 d_angle is -0.7853981633974483
+2022-01-11 16:40:03.387693,USER INTERFACE,INFO,WINDOW CLOSED
+2022-01-11 16:40:03.390397,USER INTERFACE,INFO,SHUTTINDg
+2022-01-11 16:40:03.392448,USER INTERFACE,INFO,User going down
+2022-01-11 16:41:11.892247,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:41:16.197081,Controller,INFO,USER UP
+2022-01-11 16:41:16.199038,Controller,INFO,BAGGING UP
+2022-01-11 16:41:16.203362,Controller,INFO,SLICER UP
+2022-01-11 16:41:16.207510,Controller,INFO,LOAF Q UP
+2022-01-11 16:41:16.209514,USER INTERFACE,INFO,STARTING
+2022-01-11 16:41:22.643533,user,INFO,PUT BREAD IN
+2022-01-11 16:41:22.645286,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:41:22.646910,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:41:22.649634,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:41:23.396747,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:41:23.489180,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:41:28.355868,user,INFO,PUT BREAD IN
+2022-01-11 16:41:28.357227,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:41:28.358928,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:41:28.360872,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:41:29.512259,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:41:29.632136,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:41:29.648786,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:41:29.686726,Bagging Interface,INFO,DIDNT BACK  Black
+2022-01-11 16:41:29.688959,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:41:33.166521,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:41:33.171378,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:41:36.927853,user,INFO,PUT BREAD IN
+2022-01-11 16:41:36.929263,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:41:36.932082,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:41:36.939160,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:41:37.943696,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:41:37.960346,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:41:37.980461,Ferris Wheel Interface,INFO,d_angle too small -3.549999698556466
+2022-01-11 16:41:37.985233,Ferris Wheel Interface,INFO,d_angle too large 3.5814156250923648
+2022-01-11 16:41:38.027287,Ferris Wheel Interface,INFO,d_angle too small -3.5499996985564666
+2022-01-11 16:41:38.063950,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.069036,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.153039,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282616
+2022-01-11 16:41:38.154258,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:38.194978,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282616
+2022-01-11 16:41:38.200642,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:38.232499,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.242861,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.274981,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.301016,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.323576,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.332815,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:38.359455,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282616
+2022-01-11 16:41:38.369643,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:38.401078,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282616
+2022-01-11 16:41:38.427315,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:38.443114,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.459132,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.496025,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.511903,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.548620,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.596717,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.723724,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.725401,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923648
+2022-01-11 16:41:38.764555,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.769959,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.801204,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.842166,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.847483,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:38.878940,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:38.890835,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628263
+2022-01-11 16:41:38.917216,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923648
+2022-01-11 16:41:38.931963,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:38.958233,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923648
+2022-01-11 16:41:38.969679,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:39.006316,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.008012,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.043922,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.049340,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.086092,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.091501,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.128263,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:39.133813,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:39.165433,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923648
+2022-01-11 16:41:39.174966,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:39.217996,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.227595,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.255925,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.258192,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.296496,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.301428,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.326312,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:39.336520,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282625
+2022-01-11 16:41:39.362792,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.376235,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.408398,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.411854,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.454010,Ferris Wheel Interface,INFO,d_angle too small -3.5814156250923643
+2022-01-11 16:41:39.455844,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628262
+2022-01-11 16:41:39.538220,Ferris Wheel Interface,INFO,d_angle too small -3.581415625092364
+2022-01-11 16:41:39.544138,Ferris Wheel Interface,INFO,d_angle too large 3.6128315516282616
+2022-01-11 16:41:39.592797,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282625
+2022-01-11 16:41:39.624644,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641603
+2022-01-11 16:41:39.633677,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.660185,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.672984,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.697302,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.709062,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.734174,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.745519,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282616
+2022-01-11 16:41:39.774480,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641603
+2022-01-11 16:41:39.783266,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282625
+2022-01-11 16:41:39.815296,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641603
+2022-01-11 16:41:39.820966,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.852727,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.859973,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.892500,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.894566,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:39.926728,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:39.943426,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282616
+2022-01-11 16:41:39.969958,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641594
+2022-01-11 16:41:39.975549,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282616
+2022-01-11 16:41:40.007256,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641594
+2022-01-11 16:41:40.017197,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628261
+2022-01-11 16:41:40.043897,Ferris Wheel Interface,INFO,d_angle too large 3.644247478164159
+2022-01-11 16:41:40.054260,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628261
+2022-01-11 16:41:40.101901,Ferris Wheel Interface,INFO,d_angle too large 3.612831551628263
+2022-01-11 16:41:40.150276,Ferris Wheel Interface,INFO,d_angle too small -3.6128315516282625
+2022-01-11 16:41:40.187278,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641603
+2022-01-11 16:41:40.202543,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.214330,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:40.229625,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.250192,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:40.273521,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.293358,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:40.324761,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.340811,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:40.361317,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.393342,Ferris Wheel Interface,INFO,d_angle too large 3.64424747816416
+2022-01-11 16:41:40.408548,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628261
+2022-01-11 16:41:40.431490,Ferris Wheel Interface,INFO,d_angle too large 3.644247478164159
+2022-01-11 16:41:40.448610,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628261
+2022-01-11 16:41:40.453325,Ferris Wheel Interface,INFO,d_angle too large 3.644247478164159
+2022-01-11 16:41:40.538421,Ferris Wheel Interface,INFO,d_angle too small -3.612831551628262
+2022-01-11 16:41:40.540260,Ferris Wheel Interface,INFO,d_angle too large 3.6442474781641607
+2022-01-11 16:41:40.595536,USER INTERFACE,INFO,User going down
+2022-01-11 16:42:01.660014,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:42:06.217333,Controller,INFO,USER UP
+2022-01-11 16:42:06.220403,Controller,INFO,BAGGING UP
+2022-01-11 16:42:06.222530,Controller,INFO,SLICER UP
+2022-01-11 16:42:06.225067,Controller,INFO,LOAF Q UP
+2022-01-11 16:42:06.226683,USER INTERFACE,INFO,STARTING
+2022-01-11 16:42:09.800115,user,INFO,PUT BREAD IN
+2022-01-11 16:42:09.801305,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:09.803158,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:09.809366,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:11.310497,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:11.418930,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:42:12.658874,user,INFO,PUT BREAD IN
+2022-01-11 16:42:12.660543,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:12.662268,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:12.664376,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:14.309851,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:14.462657,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:15.515937,user,INFO,PUT BREAD IN
+2022-01-11 16:42:15.517637,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:15.519284,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:15.525753,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:18.371657,user,INFO,PUT BREAD IN
+2022-01-11 16:42:18.373669,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:18.378671,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:18.382769,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:20.063536,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:42:20.067996,Ferris Wheel Interface,INFO,New pid err 11.549115761843456 error camera is 13.716814692820414 d_angle is 2.1676989309769574
+2022-01-11 16:42:20.098933,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:42:20.104665,Ferris Wheel Interface,INFO,d_angle too small -4.11548637620263
+2022-01-11 16:42:20.147306,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:42:20.183509,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:42:20.267558,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:42:20.304537,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:42:20.315034,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:42:20.338072,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:42:20.372501,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:42:20.378035,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:42:20.410032,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:42:20.415648,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:42:20.466805,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.493140,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.514515,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.531439,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.550816,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666732
+2022-01-11 16:42:20.582082,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.592734,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.629088,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.634455,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.665689,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.671540,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.702683,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.719642,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.741021,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.777087,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.782115,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.814619,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.819853,Ferris Wheel Interface,INFO,d_angle too small -4.052654523130833
+2022-01-11 16:42:20.859000,Ferris Wheel Interface,INFO,d_angle too large 4.084070449666731
+2022-01-11 16:42:20.942713,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:20.947805,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:20.980342,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:20.990495,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.022154,Ferris Wheel Interface,INFO,d_angle too small -4.021238596594935
+2022-01-11 16:42:21.027543,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.063699,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:21.068907,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.106318,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:21.126885,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.142732,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:21.168624,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.184500,Ferris Wheel Interface,INFO,d_angle too small -4.021238596594935
+2022-01-11 16:42:21.221497,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130832
+2022-01-11 16:42:21.227427,Ferris Wheel Interface,INFO,d_angle too small -4.021238596594935
+2022-01-11 16:42:21.229469,user,INFO,PUT BREAD IN
+2022-01-11 16:42:21.232631,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:21.233790,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:21.236257,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:21.252536,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.274951,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:21.311045,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.315674,Ferris Wheel Interface,INFO,d_angle too small -4.0212385965949355
+2022-01-11 16:42:21.353544,Ferris Wheel Interface,INFO,d_angle too large 4.052654523130833
+2022-01-11 16:42:21.395064,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.400368,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.431898,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.447721,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.478846,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.484875,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.516466,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.522940,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.553733,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590365
+2022-01-11 16:42:21.564920,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594934
+2022-01-11 16:42:21.590826,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590365
+2022-01-11 16:42:21.607399,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.632454,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:42:21.643641,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.669036,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:42:21.684528,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.711204,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:42:21.732124,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.773742,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:42:21.796431,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.815789,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:42:21.826887,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:21.847705,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.870212,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.890629,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.911894,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.938190,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:21.969174,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:21.985497,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590365
+2022-01-11 16:42:22.007360,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594934
+2022-01-11 16:42:22.032785,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590365
+2022-01-11 16:42:22.043808,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.064777,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.085926,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.101617,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:42:22.123369,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.154452,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:42:22.170506,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.195748,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:42:22.217346,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.243774,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.254163,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:22.281056,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.290700,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:22.332196,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.342901,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:22.364348,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.391229,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:22.406690,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.438339,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:42:22.454485,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.481298,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:42:22.495667,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:42:22.564488,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:22.692555,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:22.704034,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:22.705479,Ferris Wheel Interface,INFO,New pid err 19.9685840734641 error camera is 20.0 d_angle is 0.031415926535897976
+2022-01-11 16:42:22.731996,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:42:22.733455,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:42:22.735080,Bagging Interface,INFO,DIDNT BACK  Black
+2022-01-11 16:42:25.391953,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:25.413097,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:25.456538,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:42:26.944604,user,INFO,PUT BREAD IN
+2022-01-11 16:42:26.946673,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:26.948473,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:26.953478,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:28.256660,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:28.312954,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:28.371188,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:42:28.418358,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:42:28.419918,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:42:30.337646,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:30.373276,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:42:36.925537,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:36.930793,Ferris Wheel Interface,INFO,New pid err 12.083186512953722 error camera is 13.716814692820414 d_angle is 1.633628179866692
+2022-01-11 16:42:36.946401,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:36.973190,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:36.983813,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.010898,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.031176,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.046656,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.062943,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.109300,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.121029,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.152184,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.157483,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.194435,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.199856,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.225776,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.237142,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.263220,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.274280,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.300702,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.326384,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.343287,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.368784,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.378989,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.415840,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.432181,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.437765,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.459917,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.496078,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.501765,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.533723,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.538727,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.577219,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.581158,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:37.608592,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848791
+2022-01-11 16:42:37.618267,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312892
+2022-01-11 16:42:37.644990,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.650490,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.697679,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.708058,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.724513,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.729808,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.756026,Ferris Wheel Interface,INFO,d_angle too large 4.680973053848792
+2022-01-11 16:42:37.766610,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:42:37.861099,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:37.891194,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:37.898149,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:37.930151,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:37.945436,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:37.982526,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:37.987867,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.029601,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.031007,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.061338,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776995
+2022-01-11 16:42:38.077111,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.103665,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.123950,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.145252,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.167158,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.187044,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.210006,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.236023,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.256710,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.271852,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.311934,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.317695,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.355086,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.360582,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.387290,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.397881,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.429366,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.440321,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776995
+2022-01-11 16:42:38.466822,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.478256,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.510374,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.514323,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.594434,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.598907,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.630744,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.641308,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.678016,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.683741,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:38.711193,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.731202,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.747439,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.758011,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.800416,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312893
+2022-01-11 16:42:38.805557,Ferris Wheel Interface,INFO,d_angle too small -4.6181412007769955
+2022-01-11 16:42:38.890269,Ferris Wheel Interface,INFO,d_angle too large 4.649557127312894
+2022-01-11 16:42:38.905189,Ferris Wheel Interface,INFO,d_angle too small -4.618141200776996
+2022-01-11 16:42:39.026366,Ferris Wheel Interface,INFO,d_angle too large 4.618141200776996
+2022-01-11 16:42:39.058012,Ferris Wheel Interface,INFO,d_angle too small -4.586725274241099
+2022-01-11 16:42:39.063471,Ferris Wheel Interface,INFO,d_angle too large 4.618141200776996
+2022-01-11 16:42:39.110464,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:42:39.116061,Ferris Wheel Interface,INFO,New pid err 7.40221345910493 error camera is 7.4336293856408275 d_angle is 0.031415926535897754
+2022-01-11 16:42:45.437306,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.442507,Ferris Wheel Interface,INFO,New pid err -0.6716796606208382 error camera is 1.1504440784612413 d_angle is 1.8221237390820795
+2022-01-11 16:42:45.448564,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.492671,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.508453,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.528449,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.546767,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.572987,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:45.593163,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:45.631952,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:45.653578,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.688014,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.710735,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.746643,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.771324,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.809665,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:45.830843,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:45.879653,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:45.906180,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:45.952057,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:45.983319,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:46.034427,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:46.078952,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:46.146332,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:46.181203,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:46.254880,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:46.278180,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:46.372959,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:46.405084,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:46.501128,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:46.534816,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:46.656609,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:46.685446,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:46.822572,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:46.850644,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:46.996981,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.021565,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:47.179789,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.209305,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:47.360848,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.378738,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:47.534777,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.554393,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:47.717806,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.734664,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:47.897118,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:47.919396,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633404
+2022-01-11 16:42:48.091881,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:48.116408,Ferris Wheel Interface,INFO,d_angle too large 4.492477494633405
+2022-01-11 16:42:48.302263,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:48.308262,Ferris Wheel Interface,INFO,d_angle too large 4.4924774946334045
+2022-01-11 16:42:48.507207,Ferris Wheel Interface,INFO,d_angle too small -4.4924774946334045
+2022-01-11 16:42:48.930881,Ferris Wheel Interface,INFO,d_angle too large 4.523893421169302
+2022-01-11 16:42:49.111344,Ferris Wheel Interface,INFO,d_angle too small -4.4924774946334045
+2022-01-11 16:42:49.314476,Ferris Wheel Interface,INFO,d_angle too large 4.461061568097507
+2022-01-11 16:42:49.708958,Ferris Wheel Interface,INFO,d_angle too small -4.3982297150257095
+2022-01-11 16:42:49.814725,Ferris Wheel Interface,INFO,d_angle too large 4.366813788489812
+2022-01-11 16:42:49.868942,Ferris Wheel Interface,INFO,d_angle too small -4.3982297150257095
+2022-01-11 16:42:49.998449,Ferris Wheel Interface,INFO,d_angle too large 4.366813788489812
+2022-01-11 16:42:49.999681,Ferris Wheel Interface,INFO,d_angle too small -4.39822971502571
+2022-01-11 16:42:50.189655,Ferris Wheel Interface,INFO,d_angle too large 4.366813788489813
+2022-01-11 16:42:50.282065,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:50.292410,Ferris Wheel Interface,INFO,d_angle too large 4.39822971502571
+2022-01-11 16:42:50.357442,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:50.366870,Ferris Wheel Interface,INFO,d_angle too large 4.39822971502571
+2022-01-11 16:42:50.475353,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:50.496535,Ferris Wheel Interface,INFO,d_angle too large 4.39822971502571
+2022-01-11 16:42:50.630576,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:50.665215,Ferris Wheel Interface,INFO,d_angle too large 4.39822971502571
+2022-01-11 16:42:50.887714,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:51.026547,Ferris Wheel Interface,INFO,d_angle too large 4.39822971502571
+2022-01-11 16:42:51.205904,Ferris Wheel Interface,INFO,d_angle too small -4.429645641561608
+2022-01-11 16:42:51.496789,Ferris Wheel Interface,INFO,d_angle too large 4.429645641561608
+2022-01-11 16:42:51.669979,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097506
+2022-01-11 16:42:51.840118,Ferris Wheel Interface,INFO,d_angle too large 4.429645641561608
+2022-01-11 16:42:51.854114,Ferris Wheel Interface,INFO,d_angle too small -4.461061568097507
+2022-01-11 16:42:52.023798,Ferris Wheel Interface,INFO,d_angle too large 4.461061568097507
+2022-01-11 16:42:52.132551,Ferris Wheel Interface,INFO,d_angle too small -4.4924774946334045
+2022-01-11 16:42:52.150229,Ferris Wheel Interface,INFO,d_angle too large 4.461061568097506
+2022-01-11 16:42:52.290963,Ferris Wheel Interface,INFO,d_angle too small -4.492477494633404
+2022-01-11 16:42:52.335495,Ferris Wheel Interface,INFO,d_angle too large 4.461061568097506
+2022-01-11 16:42:52.658911,user,INFO,PUT BREAD IN
+2022-01-11 16:42:52.659981,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:52.662326,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:52.664640,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:52.833397,Ferris Wheel Interface,INFO,d_angle too small -4.492477494633404
+2022-01-11 16:42:53.661727,Ferris Wheel Interface,INFO,d_angle too large 4.6181412007769955
+2022-01-11 16:42:53.733927,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312893
+2022-01-11 16:42:54.229044,Ferris Wheel Interface,INFO,d_angle too large 6.2517693806436885
+2022-01-11 16:42:54.235553,Ferris Wheel Interface,INFO,New pid err 7.465045312176725 error camera is 7.4336293856408275 d_angle is -0.031415926535897754
+2022-01-11 16:42:54.885746,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:42:55.018184,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:42:55.040637,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:42:55.065287,Ferris Wheel Interface,INFO,d_angle too small -6.157521601035994
+2022-01-11 16:42:55.085023,Ferris Wheel Interface,INFO,d_angle too large 6.188937527571893
+2022-01-11 16:42:55.108856,Ferris Wheel Interface,INFO,d_angle too small -6.157521601035995
+2022-01-11 16:42:55.129426,Ferris Wheel Interface,INFO,d_angle too large 6.188937527571893
+2022-01-11 16:42:55.158080,Ferris Wheel Interface,INFO,d_angle too small -6.157521601035994
+2022-01-11 16:42:55.186569,Ferris Wheel Interface,INFO,New pid err 13.811062472428107 error camera is 13.716814692820414 d_angle is -0.09424777960769379
+2022-01-11 16:42:55.516713,user,INFO,PUT BREAD IN
+2022-01-11 16:42:55.519121,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:55.521050,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:55.525229,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:42:58.373347,user,INFO,PUT BREAD IN
+2022-01-11 16:42:58.374658,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:42:58.375607,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:42:58.378335,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:43:02.557011,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:43:02.668197,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:43:02.697156,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:43:02.702667,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:43:02.735501,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:43:02.736860,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:43:02.738151,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:43:03.268363,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:43:03.273338,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:43:05.404294,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:43:05.442879,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:43:05.460941,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:43:05.466678,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:43:06.944029,user,INFO,PUT BREAD IN
+2022-01-11 16:43:06.946652,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:43:06.949510,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:43:06.952847,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:43:08.719867,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:43:08.778562,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:08.799784,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:08.820474,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:43:08.842764,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:08.863650,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:08.897350,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:43:08.902236,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:08.933519,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:43:08.938849,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:08.975897,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:08.991546,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:43:09.019199,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:09.022795,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:43:09.049600,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:09.070548,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:09.086231,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:43:09.112103,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:09.133347,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:43:09.164761,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:09.179814,Ferris Wheel Interface,INFO,d_angle too large 4.115486376202629
+2022-01-11 16:43:09.212706,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:09.217863,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:09.254544,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666732
+2022-01-11 16:43:09.259767,Ferris Wheel Interface,INFO,d_angle too large 4.11548637620263
+2022-01-11 16:43:09.296956,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:43:09.381461,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:09.392087,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.418445,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:09.423452,Ferris Wheel Interface,INFO,d_angle too small -4.11548637620263
+2022-01-11 16:43:09.460424,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:09.465795,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.496995,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:09.528032,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.548752,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:09.571260,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.590567,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:09.622854,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.626461,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:09.641097,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.668223,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:09.699551,Ferris Wheel Interface,INFO,d_angle too small -4.11548637620263
+2022-01-11 16:43:09.706430,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:09.746816,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:09.791704,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:09.813269,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:09.833383,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:09.923960,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:09.928868,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:09.962774,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:09.966766,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:10.010462,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:10.020623,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:10.052787,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:10.057070,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:10.156248,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.181952,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:10.193381,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.220852,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810324
+2022-01-11 16:43:10.256304,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:10.265889,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:10.305319,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:10.322922,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:10.345083,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:10.365698,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:10.393462,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:10.397992,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:10.440192,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.451824,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:10.482695,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.493532,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:10.519969,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.525186,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:10.568036,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:10.604825,Ferris Wheel Interface,INFO,d_angle too large 4.24115008234622
+2022-01-11 16:43:10.610110,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:10.651213,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:10.656953,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:10.698987,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346222
+2022-01-11 16:43:10.704395,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810324
+2022-01-11 16:43:10.740534,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346222
+2022-01-11 16:43:10.762189,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:10.767595,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:10.809752,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:10.811718,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:10.888516,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:10.894228,Ferris Wheel Interface,INFO,d_angle too large 4.24115008234622
+2022-01-11 16:43:10.945781,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:10.951112,Ferris Wheel Interface,INFO,d_angle too large 4.24115008234622
+2022-01-11 16:43:10.983035,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:10.988342,Ferris Wheel Interface,INFO,d_angle too large 4.24115008234622
+2022-01-11 16:43:11.029917,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:11.035417,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:11.072275,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:11.078926,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:11.114820,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:11.116594,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346222
+2022-01-11 16:43:11.152568,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:11.157919,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:11.199680,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:11.204863,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:11.252085,Ferris Wheel Interface,INFO,d_angle too small -4.241150082346221
+2022-01-11 16:43:11.283520,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.305053,Ferris Wheel Interface,INFO,d_angle too small -4.241150082346221
+2022-01-11 16:43:11.330748,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.335742,Ferris Wheel Interface,INFO,d_angle too small -4.241150082346221
+2022-01-11 16:43:11.372706,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.378850,Ferris Wheel Interface,INFO,d_angle too small -4.24115008234622
+2022-01-11 16:43:11.415202,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.417233,Ferris Wheel Interface,INFO,d_angle too small -4.241150082346221
+2022-01-11 16:43:11.453027,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.478411,Ferris Wheel Interface,INFO,d_angle too small -4.241150082346221
+2022-01-11 16:43:11.488791,Ferris Wheel Interface,INFO,d_angle too large 4.2725660088821185
+2022-01-11 16:43:11.541658,Ferris Wheel Interface,INFO,d_angle too small -4.2725660088821185
+2022-01-11 16:43:11.570223,Ferris Wheel Interface,INFO,d_angle too large 4.303981935418017
+2022-01-11 16:43:11.574172,Ferris Wheel Interface,INFO,d_angle too small -4.272566008882119
+2022-01-11 16:43:11.609244,Ferris Wheel Interface,INFO,d_angle too large 4.303981935418017
+2022-01-11 16:43:11.614500,Ferris Wheel Interface,INFO,d_angle too small -4.2725660088821185
+2022-01-11 16:43:11.653091,Ferris Wheel Interface,INFO,New pid err 15.696018064581983 error camera is 13.716814692820414 d_angle is -1.9792033717615698
+2022-01-11 16:43:15.515727,user,INFO,PUT BREAD IN
+2022-01-11 16:43:15.517499,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:43:15.519129,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:43:15.521502,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:43:16.838870,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:43:16.954966,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:43:17.008527,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:43:17.154184,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.159462,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.192177,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.196930,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.224293,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.238837,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.270713,Ferris Wheel Interface,INFO,d_angle too small -3.895574890451343
+2022-01-11 16:43:17.276378,Ferris Wheel Interface,INFO,d_angle too large 3.926990816987242
+2022-01-11 16:43:17.307989,Ferris Wheel Interface,INFO,d_angle too small -3.895574890451344
+2022-01-11 16:43:17.312861,Ferris Wheel Interface,INFO,d_angle too large 3.926990816987242
+2022-01-11 16:43:17.355545,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.360846,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.460394,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872423
+2022-01-11 16:43:17.487220,Ferris Wheel Interface,INFO,d_angle too large 3.95840674352314
+2022-01-11 16:43:17.498134,Ferris Wheel Interface,INFO,d_angle too small -3.926990816987242
+2022-01-11 16:43:17.524230,Ferris Wheel Interface,INFO,d_angle too large 3.9584067435231396
+2022-01-11 16:43:17.540567,Ferris Wheel Interface,INFO,d_angle too small -3.926990816987242
+2022-01-11 16:43:17.562273,Ferris Wheel Interface,INFO,d_angle too large 3.9584067435231396
+2022-01-11 16:43:17.582642,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:17.613709,Ferris Wheel Interface,INFO,d_angle too large 3.958406743523139
+2022-01-11 16:43:17.619064,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:17.651653,Ferris Wheel Interface,INFO,d_angle too large 3.958406743523139
+2022-01-11 16:43:17.661587,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:17.698966,Ferris Wheel Interface,INFO,d_angle too large 3.95840674352314
+2022-01-11 16:43:17.782950,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.798586,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.824970,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.830018,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.868164,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.872863,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:17.899461,Ferris Wheel Interface,INFO,d_angle too small -3.895574890451343
+2022-01-11 16:43:17.909579,Ferris Wheel Interface,INFO,d_angle too large 3.926990816987242
+2022-01-11 16:43:17.988409,Ferris Wheel Interface,INFO,d_angle too small -3.8955748904513436
+2022-01-11 16:43:17.994026,Ferris Wheel Interface,INFO,d_angle too large 3.9269908169872414
+2022-01-11 16:43:18.046537,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:18.072670,Ferris Wheel Interface,INFO,d_angle too large 3.958406743523139
+2022-01-11 16:43:18.086185,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:18.115925,Ferris Wheel Interface,INFO,d_angle too large 3.958406743523139
+2022-01-11 16:43:18.133195,Ferris Wheel Interface,INFO,d_angle too small -3.926990816987241
+2022-01-11 16:43:18.163082,Ferris Wheel Interface,INFO,d_angle too large 3.9584067435231396
+2022-01-11 16:43:18.183759,Ferris Wheel Interface,INFO,d_angle too small -3.926990816987242
+2022-01-11 16:43:18.204975,Ferris Wheel Interface,INFO,d_angle too large 3.9584067435231396
+2022-01-11 16:43:18.242136,Ferris Wheel Interface,INFO,d_angle too small -3.9269908169872414
+2022-01-11 16:43:18.247318,Ferris Wheel Interface,INFO,d_angle too large 3.958406743523139
+2022-01-11 16:43:18.295582,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.331483,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.337122,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.373610,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:18.378898,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231396
+2022-01-11 16:43:18.410253,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590373
+2022-01-11 16:43:18.420972,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.468257,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.473214,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.496917,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.503052,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.535110,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.536695,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.576170,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.581548,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231387
+2022-01-11 16:43:18.613250,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590365
+2022-01-11 16:43:18.624254,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231387
+2022-01-11 16:43:18.651479,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590365
+2022-01-11 16:43:18.671368,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231383
+2022-01-11 16:43:18.698170,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:18.713331,Ferris Wheel Interface,INFO,d_angle too small -3.95840674352314
+2022-01-11 16:43:18.740555,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:18.750803,Ferris Wheel Interface,INFO,d_angle too small -3.95840674352314
+2022-01-11 16:43:18.777064,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:18.803258,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231396
+2022-01-11 16:43:18.819380,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590373
+2022-01-11 16:43:18.835560,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231396
+2022-01-11 16:43:18.866770,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590373
+2022-01-11 16:43:18.878016,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.904090,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.914569,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.946412,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:18.967983,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:18.978253,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:19.006404,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231387
+2022-01-11 16:43:19.028191,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590365
+2022-01-11 16:43:19.037894,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231387
+2022-01-11 16:43:19.063693,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590365
+2022-01-11 16:43:19.091612,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231383
+2022-01-11 16:43:19.105502,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:19.138096,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:19.153641,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:19.174742,Ferris Wheel Interface,INFO,d_angle too small -3.95840674352314
+2022-01-11 16:43:19.205395,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059038
+2022-01-11 16:43:19.217958,Ferris Wheel Interface,INFO,d_angle too small -3.9584067435231396
+2022-01-11 16:43:19.243666,Ferris Wheel Interface,INFO,d_angle too large 3.9898226700590373
+2022-01-11 16:43:19.253800,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:19.279530,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:19.295860,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:19.316336,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:19.347930,Ferris Wheel Interface,INFO,d_angle too small -3.958406743523139
+2022-01-11 16:43:19.353170,Ferris Wheel Interface,INFO,d_angle too large 3.989822670059037
+2022-01-11 16:43:19.443487,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.473933,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.479362,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.512523,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:43:19.553639,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.559172,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.596084,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:43:19.606827,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.638099,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059038
+2022-01-11 16:43:19.648937,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.727977,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.774920,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:43:19.806285,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.817743,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:43:19.849574,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590365
+2022-01-11 16:43:19.869121,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.901644,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:43:19.921866,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:19.934554,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:19.964453,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:43:19.976074,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:20.007737,Ferris Wheel Interface,INFO,d_angle too large 4.021238596594935
+2022-01-11 16:43:20.012321,Ferris Wheel Interface,INFO,d_angle too small -3.989822670059037
+2022-01-11 16:43:20.050937,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:20.054359,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:43:20.101865,Ferris Wheel Interface,INFO,d_angle too large 4.0212385965949355
+2022-01-11 16:43:20.103503,Ferris Wheel Interface,INFO,d_angle too small -3.9898226700590373
+2022-01-11 16:43:20.138658,Ferris Wheel Interface,INFO,New pid err 15.978761403405064 error camera is 13.716814692820414 d_angle is -2.261946710584651
+2022-01-11 16:43:21.228435,user,INFO,PUT BREAD IN
+2022-01-11 16:43:21.230884,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:43:21.233885,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:43:21.236140,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:43:25.782881,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:25.793156,Ferris Wheel Interface,INFO,New pid err 5.26593045466387 error camera is 7.4336293856408275 d_angle is 2.1676989309769574
+2022-01-11 16:43:25.803916,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:25.820266,Ferris Wheel Interface,INFO,d_angle too small -4.11548637620263
+2022-01-11 16:43:25.834781,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:25.866605,Ferris Wheel Interface,INFO,d_angle too small -4.11548637620263
+2022-01-11 16:43:25.872541,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:25.903332,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:25.908577,Ferris Wheel Interface,INFO,d_angle too large 4.146902302738527
+2022-01-11 16:43:25.949551,Ferris Wheel Interface,INFO,d_angle too small -4.115486376202629
+2022-01-11 16:43:25.955092,Ferris Wheel Interface,INFO,d_angle too large 4.1469023027385274
+2022-01-11 16:43:26.002817,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.034357,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.035985,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.071836,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.077239,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.119314,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.124629,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.156485,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.166689,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.195668,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.211108,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.242579,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.253089,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.279014,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.300260,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.320951,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.352629,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.357944,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.394367,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.404942,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.442935,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.448530,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.474879,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.479708,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.533043,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.552395,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.563492,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.583978,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.610357,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.626400,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.652932,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.662999,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.686138,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.702212,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.734216,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.739583,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.770808,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:26.776520,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:26.833863,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:26.871698,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.912110,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.927792,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.944490,user,INFO,PUT BREAD IN
+2022-01-11 16:43:26.946347,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:43:26.947977,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:43:26.952915,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:43:26.954934,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:26.960401,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:26.986553,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.001659,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.040098,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.044862,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.076802,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.100018,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.119195,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.140574,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.166871,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.171987,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.208507,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738526
+2022-01-11 16:43:27.219424,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:27.241107,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:27.255799,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:27.296326,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:27.301811,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:27.328451,Ferris Wheel Interface,INFO,d_angle too small -4.1469023027385274
+2022-01-11 16:43:27.343891,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274425
+2022-01-11 16:43:27.370186,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.382391,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.423406,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.428236,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.479945,Ferris Wheel Interface,INFO,d_angle too small -4.146902302738527
+2022-01-11 16:43:27.522228,Ferris Wheel Interface,INFO,d_angle too large 4.178318229274424
+2022-01-11 16:43:27.575772,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:27.601099,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:27.612066,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:27.637737,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:27.658965,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:27.680285,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810324
+2022-01-11 16:43:27.696301,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:27.712827,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:27.739797,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:27.750639,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:27.776536,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274425
+2022-01-11 16:43:27.787024,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810323
+2022-01-11 16:43:27.824603,Ferris Wheel Interface,INFO,d_angle too small -4.178318229274424
+2022-01-11 16:43:27.829284,Ferris Wheel Interface,INFO,d_angle too large 4.209734155810322
+2022-01-11 16:43:27.962027,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:27.987897,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.008535,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.029609,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.061203,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810322
+2022-01-11 16:43:28.066879,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346222
+2022-01-11 16:43:28.108724,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.120248,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.135227,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.167659,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.173222,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.217207,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.218805,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.243278,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.250020,Ferris Wheel Interface,INFO,d_angle too small -4.209734155810323
+2022-01-11 16:43:28.264012,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:43:28.287789,Ferris Wheel Interface,INFO,d_angle too large 4.241150082346221
+2022-01-11 16:43:28.381289,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:43:28.408463,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:43:28.440041,Ferris Wheel Interface,INFO,d_angle too small -6.094689747964199
+2022-01-11 16:43:28.444842,Ferris Wheel Interface,INFO,d_angle too large 6.126105674500097
+2022-01-11 16:43:28.518845,Ferris Wheel Interface,INFO,d_angle too small -6.094689747964198
+2022-01-11 16:43:28.560688,Ferris Wheel Interface,INFO,d_angle too large 6.157521601035994
+2022-01-11 16:43:28.566007,Ferris Wheel Interface,INFO,d_angle too small -6.126105674500097
+2022-01-11 16:43:28.597840,Ferris Wheel Interface,INFO,New pid err 13.842478398964005 error camera is 13.716814692820414 d_angle is -0.12566370614359174
+2022-01-11 16:43:28.988193,USER INTERFACE,INFO,User going down
+2022-01-11 16:43:58.233744,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:44:00.435947,user,INFO,PUT BREAD IN
+2022-01-11 16:44:00.437391,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:00.439029,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:00.442331,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:01.615905,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:01.703730,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:44:02.513038,Controller,INFO,USER UP
+2022-01-11 16:44:02.514862,Controller,INFO,BAGGING UP
+2022-01-11 16:44:02.516531,Controller,INFO,SLICER UP
+2022-01-11 16:44:02.517628,USER INTERFACE,INFO,STARTING
+2022-01-11 16:44:02.518521,Controller,INFO,LOAF Q UP
+2022-01-11 16:44:11.865934,user,INFO,PUT BREAD IN
+2022-01-11 16:44:11.866833,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:11.869236,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:11.872354,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:12.828481,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:12.967362,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:13.018471,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:13.106836,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:44:13.108076,Bagging Interface,INFO,DIDNT BACK  Black
+2022-01-11 16:44:14.722900,user,INFO,PUT BREAD IN
+2022-01-11 16:44:14.724436,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:14.726043,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:14.727818,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:17.579641,user,INFO,PUT BREAD IN
+2022-01-11 16:44:17.580819,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:17.581824,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:17.585291,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:18.055675,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:18.171116,Ferris Wheel Interface,INFO,d_angle too small -5.057964172279567
+2022-01-11 16:44:21.745144,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:21.886269,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:21.907291,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:21.930084,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:44:21.931365,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:44:31.866144,user,INFO,PUT BREAD IN
+2022-01-11 16:44:31.866466,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:31.870277,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:31.873819,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:33.026765,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:40.435611,user,INFO,PUT BREAD IN
+2022-01-11 16:44:40.437562,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:40.439008,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:40.442188,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:42.333927,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:42.484460,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:42.520739,Ferris Wheel Interface,INFO,d_angle too small -4.649557127312894
+2022-01-11 16:44:43.293747,user,INFO,PUT BREAD IN
+2022-01-11 16:44:43.295573,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:44:43.297200,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:44:43.305579,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:44:47.065223,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:47.216325,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:44:47.286465,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:44:47.287535,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:44:47.289130,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:44:47.291525,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:44:57.755690,USER INTERFACE,INFO,User going down
+2022-01-11 16:45:31.711055,user,INFO,PUT BREAD IN
+2022-01-11 16:45:31.712315,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:45:32.385847,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:45:36.641332,Controller,INFO,USER UP
+2022-01-11 16:45:36.643442,Controller,INFO,BAGGING UP
+2022-01-11 16:45:36.647594,Controller,INFO,SLICER UP
+2022-01-11 16:45:36.651551,Controller,INFO,LOAF Q UP
+2022-01-11 16:45:36.653294,USER INTERFACE,INFO,STARTING
+2022-01-11 16:45:43.139289,user,INFO,PUT BREAD IN
+2022-01-11 16:45:43.140771,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:45:43.142856,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:45:43.145543,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:45:43.996910,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:45:44.029168,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:45:45.997028,user,INFO,PUT BREAD IN
+2022-01-11 16:45:45.999915,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:45:46.002853,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:45:46.008926,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:45:47.133232,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:45:47.262152,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:45:48.855495,user,INFO,PUT BREAD IN
+2022-01-11 16:45:48.857103,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:45:48.859043,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:45:48.863996,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:45:51.103858,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:45:51.252920,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:45:51.336135,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:45:51.352177,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 16:45:51.353302,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:45:51.354504,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:45:54.570629,user,INFO,PUT BREAD IN
+2022-01-11 16:45:54.572366,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:45:54.574607,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:45:54.577032,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:45:56.993754,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:46:08.855774,user,INFO,PUT BREAD IN
+2022-01-11 16:46:08.858824,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:46:08.860255,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:46:08.868327,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:46:10.145292,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:46:10.257173,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:46:10.272631,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:46:10.283148,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:46:10.284776,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:46:15.387966,USER INTERFACE,INFO,User going down
+2022-01-11 16:46:48.852101,user,INFO,PUT BREAD IN
+2022-01-11 16:46:48.853017,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:46:49.284858,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:46:53.715179,Controller,INFO,USER UP
+2022-01-11 16:46:53.718002,Controller,INFO,BAGGING UP
+2022-01-11 16:46:53.723509,Controller,INFO,SLICER UP
+2022-01-11 16:46:53.726654,Controller,INFO,LOAF Q UP
+2022-01-11 16:46:53.727672,USER INTERFACE,INFO,STARTING
+2022-01-11 16:47:03.140391,user,INFO,PUT BREAD IN
+2022-01-11 16:47:03.141849,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:03.144389,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:03.146162,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:04.083786,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:04.096257,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:47:14.567978,user,INFO,PUT BREAD IN
+2022-01-11 16:47:14.569341,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:14.570943,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:14.573173,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:16.400070,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:16.528954,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:16.544809,Ferris Wheel Interface,INFO,d_angle too small -4.084070449666731
+2022-01-11 16:47:17.426883,user,INFO,PUT BREAD IN
+2022-01-11 16:47:17.428847,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:17.429800,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:17.434190,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:21.073720,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:21.252623,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:23.140964,user,INFO,PUT BREAD IN
+2022-01-11 16:47:23.142983,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:23.144835,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:23.148812,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:25.997792,user,INFO,PUT BREAD IN
+2022-01-11 16:47:25.999020,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:25.999938,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:26.004499,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:26.847313,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:26.950650,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:28.853038,user,INFO,PUT BREAD IN
+2022-01-11 16:47:28.854703,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:28.856233,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:28.858040,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:30.165090,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:30.286025,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:31.711741,user,INFO,PUT BREAD IN
+2022-01-11 16:47:31.712700,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:47:31.713475,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:47:31.715047,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:47:32.875026,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:32.994500,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:35.889340,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:47:36.058062,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:47:39.469947,USER INTERFACE,INFO,User going down
+2022-01-11 16:49:27.063553,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:49:31.617050,Controller,INFO,USER UP
+2022-01-11 16:49:31.619032,Controller,INFO,BAGGING UP
+2022-01-11 16:49:31.621212,Controller,INFO,SLICER UP
+2022-01-11 16:49:31.623335,Controller,INFO,LOAF Q UP
+2022-01-11 16:49:31.624694,USER INTERFACE,INFO,STARTING
+2022-01-11 16:49:40.726020,user,INFO,PUT BREAD IN
+2022-01-11 16:49:40.727971,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:49:40.736416,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:49:40.739379,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:49:41.528339,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:49:41.589077,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:49:43.582881,user,INFO,PUT BREAD IN
+2022-01-11 16:49:43.584879,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:49:43.586552,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:49:43.588202,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:49:44.641189,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:49:44.713667,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:49:46.435963,user,INFO,PUT BREAD IN
+2022-01-11 16:49:46.437263,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:49:46.438647,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:49:46.443733,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:49:49.023396,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:49:49.156905,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:01.391003,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:50:01.432672,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:50:06.437015,user,INFO,PUT BREAD IN
+2022-01-11 16:50:06.440949,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:50:06.441031,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:50:06.445721,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:50:07.632470,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:50:07.781364,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:07.787774,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:50:19.839890,Ferris Wheel Interface,INFO,d_angle too small -6.2517693806436885
+2022-01-11 16:50:19.927664,Ferris Wheel Interface,INFO,New pid err 13.685398766284516 error camera is 13.716814692820414 d_angle is 0.031415926535897754
+2022-01-11 16:50:20.724348,user,INFO,PUT BREAD IN
+2022-01-11 16:50:20.725859,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:50:20.728292,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:50:20.732433,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:50:21.731222,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:50:21.895464,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:21.936580,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0.0
+2022-01-11 16:50:23.579977,user,INFO,PUT BREAD IN
+2022-01-11 16:50:23.582041,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:50:23.585630,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:50:23.587957,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:50:25.149033,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:50:25.271167,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:26.440775,user,INFO,PUT BREAD IN
+2022-01-11 16:50:26.442561,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:50:26.444123,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:50:26.446663,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:50:27.695682,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:50:27.838789,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:32.016903,USER INTERFACE,INFO,WINDOW CLOSED
+2022-01-11 16:50:32.021660,USER INTERFACE,INFO,SHUTTINDg
+2022-01-11 16:50:32.024215,USER INTERFACE,INFO,User going down
+2022-01-11 16:50:53.855440,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:50:58.264348,Controller,INFO,USER UP
+2022-01-11 16:50:58.267505,Controller,INFO,BAGGING UP
+2022-01-11 16:50:58.270386,Controller,INFO,SLICER UP
+2022-01-11 16:50:58.272512,Controller,INFO,LOAF Q UP
+2022-01-11 16:50:58.274465,USER INTERFACE,INFO,STARTING
+2022-01-11 16:50:59.039515,user,INFO,PUT BREAD IN
+2022-01-11 16:50:59.041022,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:50:59.043409,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:50:59.046772,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:50:59.607940,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:50:59.618433,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:51:07.609054,user,INFO,PUT BREAD IN
+2022-01-11 16:51:07.611557,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:51:07.614433,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:51:07.617063,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:51:08.436957,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:51:08.570505,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:51:08.598027,Ferris Wheel Interface,INFO,d_angle too small -3.926990816987242
+2022-01-11 16:51:11.833589,USER INTERFACE,INFO,User going down
+2022-01-11 16:53:23.241812,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 16:53:27.727410,Controller,INFO,USER UP
+2022-01-11 16:53:27.730940,Controller,INFO,BAGGING UP
+2022-01-11 16:53:27.736639,Controller,INFO,SLICER UP
+2022-01-11 16:53:27.739099,Controller,INFO,LOAF Q UP
+2022-01-11 16:53:27.740671,USER INTERFACE,INFO,STARTING
+2022-01-11 16:53:31.367533,user,INFO,PUT BREAD IN
+2022-01-11 16:53:31.369066,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:53:31.370775,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:53:31.376045,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:53:33.223210,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:53:33.253324,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 16:53:34.223847,user,INFO,PUT BREAD IN
+2022-01-11 16:53:34.225576,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:53:34.227418,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:53:34.232683,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:53:36.042492,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:53:36.058450,Bagging Interface,INFO,DIDNT BACK  Panini
+2022-01-11 16:53:37.036912,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:53:39.940264,user,INFO,PUT BREAD IN
+2022-01-11 16:53:39.942682,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 16:53:39.944194,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 16:53:39.952005,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 16:53:41.120878,Bagging Interface,INFO,DIDNT BACK  Brown
+2022-01-11 16:53:41.135598,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 16:53:42.084064,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 16:53:43.532811,USER INTERFACE,INFO,User going down
+2022-01-11 21:19:44.368125,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 21:19:46.551835,user,INFO,PUT BREAD IN
+2022-01-11 21:19:46.552907,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:19:46.553661,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:19:46.555119,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:19:48.795272,Controller,INFO,USER UP
+2022-01-11 21:19:48.796855,Controller,INFO,BAGGING UP
+2022-01-11 21:19:49.277659,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:19:49.384884,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 21:19:54.843091,USER INTERFACE,INFO,WINDOW CLOSED
+2022-01-11 21:19:54.845624,USER INTERFACE,INFO,SHUTTING
+2022-01-11 21:19:54.850267,USER INTERFACE,INFO,User going down
+2022-01-11 21:19:54.858442,Controller,WARNING,TRYING ASYNC CLOSE OF SLICER
+2022-01-11 21:22:58.162993,user,INFO,PUT BREAD IN
+2022-01-11 21:22:59.082300,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 21:23:03.189082,Controller,INFO,USER UP
+2022-01-11 21:23:03.191601,Controller,INFO,BAGGING UP
+2022-01-11 21:23:15.307628,user,INFO,PUT BREAD IN
+2022-01-11 21:23:15.308658,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:23:15.309510,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:23:15.311208,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:23:17.256472,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:23:17.343477,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 21:23:21.021473,user,INFO,PUT BREAD IN
+2022-01-11 21:23:21.022441,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:23:21.024159,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:23:21.026164,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:23:22.032595,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 21:23:22.033585,Bagging Interface,INFO,DIDNT BACK  Black
+2022-01-11 21:23:22.980591,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:23:23.878827,user,INFO,PUT BREAD IN
+2022-01-11 21:23:23.880597,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:23:23.882249,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:23:23.887847,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:23:27.425778,USER INTERFACE,INFO,WINDOW CLOSED
+2022-01-11 21:23:27.429523,USER INTERFACE,INFO,SHUTTING
+2022-01-11 21:23:27.432453,USER INTERFACE,INFO,User going down
+2022-01-11 21:23:27.441325,Controller,WARNING,TRYING ASYNC CLOSE OF SLICER
+2022-01-11 21:25:40.172980,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 21:25:44.333743,Controller,INFO,USER UP
+2022-01-11 21:25:44.338374,Controller,INFO,BAGGING UP
+2022-01-11 21:25:50.865589,user,INFO,PUT BREAD IN
+2022-01-11 21:25:50.866927,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:25:50.869559,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:25:50.872476,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:25:53.721518,user,INFO,PUT BREAD IN
+2022-01-11 21:25:53.722391,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:25:53.723186,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:25:53.728507,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:25:58.984791,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:25:58.989098,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 21:26:00.781830,Ferris Wheel Interface,WARNING,PREEMPT REQUESTED
+2022-01-11 21:26:00.784241,Bagging Interface,INFO,DIDNT BACK  White
+2022-01-11 21:26:01.761318,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:26:03.426246,Controller,WARNING,TRYING ASYNC CLOSE OF USER
+2022-01-11 21:26:03.435015,Controller,WARNING,TRYING ASYNC CLOSE OF SLICER
+2022-01-11 21:28:32.274500,Bagging Interface,INFO,FERRIS WHEEL CONTROL RESPONDED!
+2022-01-11 21:28:36.718444,Controller,INFO,USER UP
+2022-01-11 21:28:36.721769,Controller,INFO,BAGGING UP
+2022-01-11 21:28:37.389060,user,INFO,PUT BREAD IN
+2022-01-11 21:28:37.390855,Controller,INFO,"USER PUT BREAD IN, ADDING TO QUEUE"
+2022-01-11 21:28:37.392241,USER INTERFACE,INFO,CHOOSING BREAD
+2022-01-11 21:28:37.394509,USER INTERFACE,ERROR,TIMEOUT!! start ss
+2022-01-11 21:28:39.588059,Ferris Wheel Interface,INFO,NEW ERROR IN!!!!!!!!!!!!!!!
+2022-01-11 21:28:39.655494,Ferris Wheel Interface,INFO,New pid err 20.0 error camera is 20.0 d_angle is 0
+2022-01-11 21:28:40.307793,USER INTERFACE,INFO,WINDOW CLOSED
+2022-01-11 21:28:40.310710,USER INTERFACE,INFO,SHUTTING
+2022-01-11 21:28:40.319705,Controller,WARNING,TRYING ASYNC CLOSE OF USER
+2022-01-11 21:28:40.328787,Controller,WARNING,TRYING ASYNC CLOSE OF SLICER

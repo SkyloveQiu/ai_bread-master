@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+
+
+    <node name="conveyor_motor_control" pkg="bread_gazebo" type="conveyor_motor_control.py"
+    output="screen">
+    </node>
+
+</launch>

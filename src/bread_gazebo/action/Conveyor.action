@@ -1,0 +1,10 @@
+#Goal
+float32 moving_time
+
+---
+#Result
+float32 moved_time
+
+---
+#Feedback
+float32 current_moved_time

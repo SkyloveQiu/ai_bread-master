@@ -1,0 +1,10 @@
+#Goal
+int32 moving_steps
+
+---
+#Result
+int32 moved_steps
+
+---
+#Feedback
+int32 current_moved_steps

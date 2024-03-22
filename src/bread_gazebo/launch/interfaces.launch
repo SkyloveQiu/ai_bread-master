@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<launch>
+  
+  
+  <node name="bagging_interface" pkg="bread_gazebo" type="Bagging.py"
+  	output="screen">
+  	<param name="/use_sim_time" value="false"/>
+  </node>
+      
+  <node name="conveyor_interface" pkg="bread_gazebo" type="Conveyor.py"
+  	output="screen">
+    	<param name="/use_sim_time" value="false"/>
+  </node>
+    
+  <node name="slicer_interface" pkg="bread_gazebo" type="Slicer.py"
+    	output="screen">
+    	<param name="/use_sim_time" value="false"/>
+  </node>
+ 
+</launch>
+

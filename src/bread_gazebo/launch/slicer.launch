@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="Slicer" pkg="bread_gazebo" type="Slicer.py"
+  	output="screen">
+    </node>
+    <node name="Conveyor" pkg="bread_gazebo" type="Conveyor.py"
+  	output="screen">
+    </node>
+</launch>

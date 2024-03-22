@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<launch>
+  
+  
+        <node name="bread_identifier" pkg="bread_gazebo" type="BreadIdentifier.py"
+    output="screen">
+    <param name="/use_sim_time" value="false"/>
+    </node>
+
+  <node name="bagging_interface" pkg="bread_gazebo" type="Bagging.py"
+  	output="screen">
+  	<param name="/use_sim_time" value="false"/>
+  </node>
+    
+    <node name="sensors_interface" pkg="bread_gazebo" type="CameraSensors.py"
+    output="screen"/>
+</launch>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+
+
+    <node name="ferris_wheel_motor_control" pkg="bread_gazebo" type="ferris_wheel_speed_to_motor_control.py"
+    output="screen">
+    </node>
+    <node name="pusher" pkg="bread_gazebo" type="pusher.py" output="screen"></node>
+    <node name="sealer" pkg="bread_gazebo" type="sealer.py" output="screen"></node>
+
+</launch>
